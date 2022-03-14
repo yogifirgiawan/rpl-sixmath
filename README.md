@@ -1,5 +1,5 @@
 ### KELOMPOK 9
-Anggota
+Anggota:
 | Nama | NIM |
 | --- | --- |
 | Naufal Haritsah Luthfi | 1301194073 |
